@@ -1,4 +1,9 @@
 ## Oiii eu sou o Renato Ribeiro!!
+
+<div align="center">
+  ## Minhas estatísticas :point_down:
+</div>  
+
 <div align="center">
   <a href="https://github.com/Renato-Ribeiroo">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Renato-Ribeiroo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
