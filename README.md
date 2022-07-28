@@ -1,4 +1,4 @@
-## Oiii eu sou o Renato Ribeiro!!
+## Oiii, eu sou o Renato Ribeiro!!
 
 <div align="center">
   
