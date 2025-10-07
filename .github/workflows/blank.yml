@@ -16,7 +16,7 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: Renato-Ribeiroo
-          outputs: dist/snake.svg?color_snake=%2326a641&color_dots=%23ebedf0,%239be9a8,%2340c463,%2330a14e,%23216e39
+          outputs: dist/snake.svg?color_snake=%23ff00ff&color_dots=%23131313,%232a9d8f,%23264e70,%2300d4ff,%2300ffaa
 
       - name: Deploy
         uses: crazy-max/ghaction-github-pages@v3.1.0
