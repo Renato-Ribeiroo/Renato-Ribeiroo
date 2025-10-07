@@ -55,12 +55,6 @@
   </picture>
 </p>
 
-### Versão Neon
-![Snake Neon](https://raw.githubusercontent.com/Renato-Ribeiroo/Renato-Ribeiroo/output/snake-neon.svg?v=1)
-
-### Versão Contraste
-![Snake Contrast](https://raw.githubusercontent.com/Renato-Ribeiroo/Renato-Ribeiroo/output/snake-contrast.svg?v=1)
-
 <!--<div align="left">
    
   ##  Contador de visitas
