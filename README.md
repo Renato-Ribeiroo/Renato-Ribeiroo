@@ -47,7 +47,7 @@
  
 </div>
 
-![Snake animation](https://github.com/Renato-Ribeiroo/Renato-Ribeiroo/blob/output/snake.svg)
+![Snake animation](https://github.com/Renato-Ribeiroo/Renato-Ribeiroo/blob/output/snake-neon.svg?refresh=1)
 
 <!--<div align="left">
    
