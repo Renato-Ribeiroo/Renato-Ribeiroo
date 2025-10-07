@@ -1,4 +1,20 @@
-## Oiii, eu sou o Renato Ribeiro!!
+# 👋 Olá, eu sou o Renato Ribeiro  
+### 📊 Cientista de Dados | Python | SQL | Power BI | Azure  
+
+💡 Apaixonado por transformar dados em **insights estratégicos** através de análises estatísticas, aprendizado de máquina e visualizações interativas.  
+🎯 Experiência em **modelagem preditiva, tratamento de grandes volumes de dados** e construção de **dashboards para tomada de decisão**.  
+
+---
+
+## 🔧 Tecnologias e Ferramentas  
+<div style="display: inline_block"><br>
+  <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="SQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="PowerBI" height="40" width="50" src="https://img.icons8.com/color/48/power-bi.png">
+  <img align="center" alt="Azure" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
+</div>
+
+---
 
 <div align="center">
   
